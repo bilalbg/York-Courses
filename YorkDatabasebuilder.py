@@ -24,8 +24,8 @@ setxpath = "/html/body/table/tbody/tr[2]/td[2]/table/tbody/tr[2]/td/table/tbody/
 timeinfo = []
 #yorkbaselink = "https://w2prod.sis.yorku.ca/"
 newstr = ""
-user = 'bilalb'
-passw = 'choagrave0409'
+user = 'placeholder'
+passw = 'placeholder'
 termindex = 0
 classtypes = ["BLEN", "CLIN", "CORS", "DISS", "DIRD", "FDEX", "FIEL", "IDS", "ISTY", "INSP", "LAB", "LECT ",
                "LGCL", "ONLN", "PERF", "PRAC", "REEV", "RESP", "REVP", "SEMR", "STDO", "TUTR", "THES", "WKSP"]
